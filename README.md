@@ -2,6 +2,9 @@
 
 > 把 wafer sort 的原始 STDF 变成可行动的良率洞察。纯 Python 解析 + Streamlit 全栈看板，支持上传真实 STDF、bin pareto、wafer map、Cpk、跨 lot 趋势与 CSV 导出。
 
+**GitHub 仓库**：<https://github.com/Inventionyin/stdf-yield-lab>
+**一键部署**：<https://share.streamlit.io/deploy?repository=Inventionyin/stdf-yield-lab&branch=main&mainModule=app.py>（用 GitHub 登录后点 Deploy）
+
 ![overview](assets/overview.png)
 
 ## 界面
